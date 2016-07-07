@@ -1,0 +1,5 @@
+linux_webdriver_path = ''
+other_platform_webdriver_path = ''
+phone1 = ''
+phone2 = ''
+test_url = ''
